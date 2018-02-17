@@ -1,0 +1,22 @@
+{
+  "name": "social-quotes",
+  "version": "1.0.0",
+  "description": "Tumblr without the mess.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daniel-Slabaugh/social-quotes.git"
+  },
+  "author": "Daniel Slabaugh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Daniel-Slabaugh/social-quotes/issues"
+  },
+  "homepage": "https://github.com/Daniel-Slabaugh/social-quotes#readme",
+  "dependencies": {
+    "react": "^16.2.0"
+  }
+}
